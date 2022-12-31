@@ -36,8 +36,8 @@ ball.shape("circle")
 ball.color("green")
 ball.penup()
 ball.goto(0,0)
-ball.dx = 0.5
-ball.dy = 0.5
+ball.dx = 0.4
+ball.dy = 0.4
 
 # Intializing Score
 score_a=0
